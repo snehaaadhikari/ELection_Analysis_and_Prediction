@@ -10,6 +10,7 @@
 | **Key techniques** | EDA · Feature engineering · Seat trend prediction |
 
 ## Project Outlines:
+PROJECT/
 ├── Data/
 │   ├── Election2008.csv
 │   ├── Election2013.csv
