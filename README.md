@@ -17,3 +17,6 @@ PROJECT/
 │   ├── Election2017.csv
 │   └── Election2022.csv
 └── political_party_popularity_prediction.ipynb
+
+##Summary: 
+This project focues on deliverying end to end pipeline procedure to predict and visualize, foucsing on which political party might get elected in the upcoming future
